@@ -1,0 +1,20 @@
+﻿Build started 7/11/2014 10:22:59 AM.
+     1>Project "C:\Users\Hxy\Documents\Visual Studio 2010\Projects\guiEEG\guiEEG\guiEEG.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\guiEEG.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         guiEEG.vcxproj -> C:\Users\Hxy\Documents\Visual Studio 2010\Projects\guiEEG\Win32\Debug\guiEEG.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\guiEEG.unsuccessfulbuild".
+         Touching "Debug\guiEEG.lastbuildstate".
+     1>Done Building Project "C:\Users\Hxy\Documents\Visual Studio 2010\Projects\guiEEG\guiEEG\guiEEG.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
