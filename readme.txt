@@ -1,5 +1,5 @@
-
 2014.11.11_ v1.0
 
-- eeg recorder
-- provide different record settings and timers.
+- record eeg data for emotiv device.
+- record data file with date and time labels.
+- provide different recording settings and timers.
